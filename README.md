@@ -132,13 +132,6 @@ All protected routes require `Authorization: Bearer <token>` header.
 
 ---
 
-## 🐳 Docker (optional)
-
-Build and run with Docker:
-
-```bash
-docker-compose up --build
-```
 
 ---
 
@@ -152,7 +145,7 @@ docker-compose up --build
 
 ## 👤 Author
 
-**Guillermo Faus**  
+**Guillermo Faus Roche**  
 Full-Stack Developer | Python · FastAPI · DevOps · AI  
 [LinkedIn](https://www.linkedin.com/in/guillermofausroche) · [GitHub](https://github.com/gfaus91)
 
